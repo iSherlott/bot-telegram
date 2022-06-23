@@ -1,0 +1,16 @@
+{
+  "name": "aisha_chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nltk-stopwords": "^1.0.3",
+    "node-telegram-bot-api": "^0.51.0",
+    "simsimi": "^3.0.0"
+  }
+}
